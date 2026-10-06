@@ -1,0 +1,331 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-03 18:09:17.534776-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-03 18:09:17.534768-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{Html}
+<div categoryname="Widget Components" ccid_ComponentType="Widget Canvas" id="iec3gougb7" devicesVisited="[&quot;TSW-1080&quot;]" defaultWidth="500px" defaultHeight="500px" class="widget-container"><ch5-text clearLabel="false" labelmodeadvncomponent="advanced" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ikritvftfoidh" componentName="SpaceCapacityValue" ccid_ActiveFont="'Roboto'" ccid_Label="<p><span style=&quot;font-size: 100%;&quot;><ch5-jointotext-numeric id=&quot;ifg0&quot; receivestatevalue=&quot;Analog&quot; length=&quot;2&quot; type=&quot;unsigned&quot;></ch5-jointotext-numeric></span></p>" labelinnerhtml="<p><span style=&quot;font-size: 100%;&quot;><ch5-jointotext-numeric id=&quot;ifg0&quot; receivestatevalue=&quot;Analog&quot; length=&quot;2&quot; type=&quot;unsigned&quot;></ch5-jointotext-numeric></span></p>" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iuhehcmon731t"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i36kzn4khil05" componentName="SpaceTimeZoneText" ccid_ActiveFont="'Roboto'" ccid_Label="Time Zone:" labelinnerhtml="Time Zone:" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iqgkduj3np" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ixaj58isbqxbf" componentName="SpaceDealerContactInfoText" ccid_ActiveFont="'Roboto'" ccid_Label="Dealer Contact Info:" labelinnerhtml="Dealer Contact Info:" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="i163unoelf" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ihl6k2vdmll04" componentName="SpaceNameText" ccid_ActiveFont="'Roboto'" ccid_Label="Name: " labelinnerhtml="Name: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iwlmrrhcku" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="isk9reb2dfzzu" componentName="SpaceTypeText" ccid_ActiveFont="'Roboto'" ccid_Label="Type: " labelinnerhtml="Type: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="ixvkqjibxu" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i935p12x1nxfp" componentName="SpaceIdText" ccid_ActiveFont="'Roboto'" ccid_Label="Id: " labelinnerhtml="Id: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iq0pw4kliz" pd-receivestatelabel="Contract Enabled"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iuhehcmon731t" componentName="Formatted-Text_6" ccid_ActiveFont="'Roboto'" ccid_Label="Space Capacity: " labelinnerhtml="Space Capacity: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iqgkduj3np"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iqgkduj3np" componentName="Formatted-Text_5" ccid_ActiveFont="'Roboto'" ccid_Label="Time Zone:" labelinnerhtml="Time Zone:" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iu5g"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="i163unoelf" componentName="Formatted-Text_4" ccid_ActiveFont="'Roboto'" ccid_Label="Dealer Contact Info:" labelinnerhtml="Dealer Contact Info:" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iu5g"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iwlmrrhcku" componentName="Formatted-Text_3" ccid_ActiveFont="'Roboto'" ccid_Label="Name: " labelinnerhtml="Name: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iu5g"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ixvkqjibxu" componentName="Formatted-Text_2" ccid_ActiveFont="'Roboto'" ccid_Label="Type: " labelinnerhtml="Type: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iu5g"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="right" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iq0pw4kliz" componentName="Formatted-Text_1" ccid_ActiveFont="'Roboto'" ccid_Label="Id: " labelinnerhtml="Id: " ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true" oldID="iu5g"></ch5-text><ch5-text clearLabel="false" labelmodeadvncomponent="simple" horizontalalignment="left" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iu5g" componentName="Formatted-Text" ccid_ActiveFont="'Roboto'" ccid_Label="Meta Data" labelinnerhtml="Meta Data" ccid_linkSendReceive="True" ccid_ComponentType="Formatted-Text" devicesVisited="[&quot;TSW-1080&quot;]" ccid_themeCSSSet="true">
+              </ch5-text><html-div labelmode="advanced" ccid_lteHTMLOnly="true" componentName="Html-div_2" id="ilqgo90ydeqwi" ccid_ComponentType="Html-div" devicesVisited="[&quot;TSW-1080&quot;]" oldID="ids0icpi5rg4f"></html-div></div>
+
+{Css}
+@media (max-width: 99999px){#iec3gougb7{width:385px;height:195px;left:0;top:0;position:absolute;}#iu5g{display:block;left:14px;top:13px;position:absolute;z-index:9;width:164px;height:20px;--ch5-text--width:164px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#iu5g .ch5-text :not(i):not(svg){font-family:'Roboto';}#iu5g .ch5-text{min-height:10;min-width:10;padding:0px;}#iq0pw4kliz{display:block;left:30px;top:67px;position:absolute;z-index:10;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#iq0pw4kliz .ch5-text :not(i):not(svg){font-family:'Roboto';}#iq0pw4kliz .ch5-text{min-height:10;min-width:10;padding:0px;}#ixvkqjibxu{display:block;left:30px;top:89px;position:absolute;z-index:11;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#ixvkqjibxu .ch5-text :not(i):not(svg){font-family:'Roboto';}#ixvkqjibxu .ch5-text{min-height:10;min-width:10;padding:0px;}#i163unoelf{display:block;left:30px;top:111px;position:absolute;z-index:13;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#i163unoelf .ch5-text :not(i):not(svg){font-family:'Roboto';}#i163unoelf .ch5-text{min-height:10;min-width:10;padding:0px;}#iqgkduj3np{display:block;left:30px;top:133px;position:absolute;z-index:14;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#iqgkduj3np .ch5-text :not(i):not(svg){font-family:'Roboto';}#iqgkduj3np .ch5-text{min-height:10;min-width:10;padding:0px;}#iuhehcmon731t{display:block;left:30px;top:155px;position:absolute;z-index:15;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#iuhehcmon731t .ch5-text :not(i):not(svg){font-family:'Roboto';}#iuhehcmon731t .ch5-text{min-height:10;min-width:10;padding:0px;}#iwlmrrhcku{display:block;left:30px;top:45px;position:absolute;z-index:12;width:130px;height:20px;--ch5-text--width:130px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#iwlmrrhcku .ch5-text :not(i):not(svg){font-family:'Roboto';}#iwlmrrhcku .ch5-text{min-height:10;min-width:10;padding:0px;}#ikritvftfoidh{display:block;left:179px;top:156px;position:absolute;z-index:21;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#i36kzn4khil05{display:block;left:179px;top:134px;position:absolute;z-index:20;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#ixaj58isbqxbf{display:block;left:179px;top:112px;position:absolute;z-index:19;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#ihl6k2vdmll04{display:block;left:179px;top:46px;position:absolute;z-index:18;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#isk9reb2dfzzu{display:block;left:179px;top:90px;position:absolute;z-index:17;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#i935p12x1nxfp{display:block;left:179px;top:68px;position:absolute;z-index:16;width:190px;height:20px;--ch5-text--width:190px;--ch5-text--height:20px;--ch5-text--font-size:13px;Label_font-size:13px;custom-normal-font-size:13px;}#i935p12x1nxfp .ch5-text :not(i):not(svg){font-family:'Roboto';}#i935p12x1nxfp .ch5-text{min-height:10;min-width:10;padding:0px;}#isk9reb2dfzzu .ch5-text :not(i):not(svg){font-family:'Roboto';}#isk9reb2dfzzu .ch5-text{min-height:10;min-width:10;padding:0px;}#ihl6k2vdmll04 .ch5-text :not(i):not(svg){font-family:'Roboto';}#ihl6k2vdmll04 .ch5-text{min-height:10;min-width:10;padding:0px;}#ixaj58isbqxbf .ch5-text :not(i):not(svg){font-family:'Roboto';}#ixaj58isbqxbf .ch5-text{min-height:10;min-width:10;padding:0px;}#i36kzn4khil05 .ch5-text :not(i):not(svg){font-family:'Roboto';}#i36kzn4khil05 .ch5-text{min-height:10;min-width:10;padding:0px;}#ikritvftfoidh .ch5-text{min-height:10;min-width:10;padding:0px;}.widget-container{z-index:0;background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;}#ilqgo90ydeqwi{display:block;background-color:rgba(182,198,213,0);border-style:solid;border-width:1px;border-color:#ffffff;width:385px;height:195px;white-space:normal;left:0px;top:0px;position:absolute;z-index:8;border-radius:5px 5px 5px 5px;}#io97{background-color:#ffffff;}}@media (orientation: landscape) and (max-width: 1281px) and (max-height: 801px), (orientation: landscape) and (max-width: 1279px){#iec3gougb7{width:385px;height:195px;left:0;top:0;position:absolute;}#iu5g{display:block;left:14px;top:13px;position:absolute;width:164px;height:20px;--ch5-text--width:164px;--ch5-text--height:20px;Label_font-size:13px;--ch5-text--font-size:13px;}#iq0pw4kliz{left:30px;top:67px;position:absolute;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;width:130px;--ch5-text--width:130px;}#ixvkqjibxu{left:30px;top:89px;position:absolute;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;width:130px;--ch5-text--width:130px;}#i163unoelf{left:30px;top:111px;position:absolute;width:130px;--ch5-text--width:130px;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;}#iqgkduj3np{left:30px;top:133px;position:absolute;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;width:130px;--ch5-text--width:130px;}#iuhehcmon731t{left:30px;top:155px;position:absolute;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;width:130px;--ch5-text--width:130px;}#iwlmrrhcku{left:30px;top:45px;Label_font-size:13px;--ch5-text--font-size:13px;height:20px;--ch5-text--height:20px;width:130px;--ch5-text--width:130px;position:absolute;}#ikritvftfoidh{left:179px;top:156px;width:190px;--ch5-text--width:190px;}#i36kzn4khil05{left:179px;top:134px;width:190px;--ch5-text--width:190px;}#ixaj58isbqxbf{left:179px;top:112px;width:190px;--ch5-text--width:190px;}#ihl6k2vdmll04{left:179px;top:46px;position:absolute;width:190px;--ch5-text--width:190px;}#isk9reb2dfzzu{left:179px;top:90px;width:190px;--ch5-text--width:190px;}#i935p12x1nxfp{left:179px;top:68px;width:190px;--ch5-text--width:190px;}#ilqgo90ydeqwi{display:block;background-color:rgba(182,198,213,0);border-style:solid;border-width:1px;border-color:#ffffff;width:385px;height:195px;white-space:normal;left:0px;top:0px;position:absolute;z-index:8;border-radius:5px 5px 5px 5px;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "MetaData"
+PageMode = "absolute"
+Id = "dea88056-6aa4-4184-b3b5-5a48ec6eb568"
+DisplayBackgroundColor = "False"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "advanced"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ikritvftfoidh"
+componentName = "SpaceCapacityValue"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "<p><span style=\"font-size: 100%;\"><ch5-jointotext-numeric id=\"ifg0\" receivestatevalue=\"Analog\" length=\"2\" type=\"unsigned\"></ch5-jointotext-numeric></span></p>"
+labelinnerhtml = "<p><span style=\"font-size: 100%;\"><ch5-jointotext-numeric id=\"ifg0\" receivestatevalue=\"Analog\" length=\"2\" type=\"unsigned\"></ch5-jointotext-numeric></span></p>"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iuhehcmon731t"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i36kzn4khil05"
+componentName = "SpaceTimeZoneText"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Time Zone:"
+labelinnerhtml = "Time Zone:"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iqgkduj3np"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ixaj58isbqxbf"
+componentName = "SpaceDealerContactInfoText"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Dealer Contact Info:"
+labelinnerhtml = "Dealer Contact Info:"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "i163unoelf"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ihl6k2vdmll04"
+componentName = "SpaceNameText"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Name: "
+labelinnerhtml = "Name: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iwlmrrhcku"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "isk9reb2dfzzu"
+componentName = "SpaceTypeText"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Type: "
+labelinnerhtml = "Type: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "ixvkqjibxu"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i935p12x1nxfp"
+componentName = "SpaceIdText"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Id: "
+labelinnerhtml = "Id: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iq0pw4kliz"
+pd-receivestatelabel = "Contract Enabled"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iuhehcmon731t"
+componentName = "Formatted-Text_6"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Space Capacity: "
+labelinnerhtml = "Space Capacity: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iqgkduj3np"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iqgkduj3np"
+componentName = "Formatted-Text_5"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Time Zone:"
+labelinnerhtml = "Time Zone:"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iu5g"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "i163unoelf"
+componentName = "Formatted-Text_4"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Dealer Contact Info:"
+labelinnerhtml = "Dealer Contact Info:"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iu5g"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iwlmrrhcku"
+componentName = "Formatted-Text_3"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Name: "
+labelinnerhtml = "Name: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iu5g"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "ixvkqjibxu"
+componentName = "Formatted-Text_2"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Type: "
+labelinnerhtml = "Type: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iu5g"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "right"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iq0pw4kliz"
+componentName = "Formatted-Text_1"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Id: "
+labelinnerhtml = "Id: "
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+oldID = "iu5g"
+[[Elements.Components]]
+Type = "Ch5 Text"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+labelmodeadvncomponent = "simple"
+horizontalalignment = "left"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+id = "iu5g"
+componentName = "Formatted-Text"
+ccid_ActiveFont = "'Roboto'"
+ccid_Label = "Meta Data"
+labelinnerhtml = "Meta Data"
+ccid_linkSendReceive = "True"
+ccid_ComponentType = "Formatted-Text"
+devicesVisited = "[\"TSW-1080\"]"
+ccid_themeCSSSet = "true"
+[[Elements.Components]]
+Type = "html-div"
+
+[Elements.Components.Attributes]
+labelmode = "advanced"
+ccid_lteHTMLOnly = "true"
+componentName = "Html-div_2"
+id = "ilqgo90ydeqwi"
+ccid_ComponentType = "Html-div"
+devicesVisited = "[\"TSW-1080\"]"
+oldID = "ids0icpi5rg4f"
+
+[Elements.Attributes]
+categoryname = "Widget Components"
+ccid_ComponentType = "Widget Canvas"
+id = "iec3gougb7"
+devicesVisited = "[\"TSW-1080\"]"
+defaultWidth = "500px"
+defaultHeight = "500px"
+

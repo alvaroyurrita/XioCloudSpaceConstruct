@@ -1,0 +1,35 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.1501.15.0"
+Created = 2026-09-03 11:00:40.841569-04:00
+LastModifiedByAppHost = "2.1501.15.0"
+Modified = 2026-09-11 13:57:36.549346-04:00
+CreatedByProjectApp = "1.4801.18.0"
+LastModifiedByProjectApp = "1.4801.18.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.901.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+Name = "XioCloudSpaceConstruct"
+ThemeId = "dark-theme.css"
+ProjectThemeIds = "dark-theme.css"
+ThemePageColor = "#4d4d4d"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.18.0"
+ComponentKey = "UiEditor"
+Id = "1875b442-b3ac-4e60-9a9e-7ba75a18cae2"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DefaultComponentMode = "custom"
+DefaultFontFamily = "Roboto"
+DeviceResolutionIds = "D-L-TSW1080-1280-800"
+ipId = "10"
+ProjectSchemaVersion = "13"
+ContractIsStale = "false"
+

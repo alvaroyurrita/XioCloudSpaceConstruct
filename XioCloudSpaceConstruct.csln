@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.1501.15.0",
+    "_created": "2026-09-03T11:00:40.8819056-04:00",
+    "_lastModifiedByAppHost": "2.1501.15.0",
+    "_minimumAppHost": "2.901.0",
+    "_modified": "2026-09-03T11:00:40.881886-04:00"
+  },
+  "_solution": {
+    "_name": "XioCloudSpaceConstruct",
+    "_projects": [
+      {
+        "_name": "XioCloudSpaceConstruct",
+        "_filename": "XioCloudSpaceConstruct/XioCloudSpaceConstruct.cuip",
+        "_datetime": "2026-09-03T15:00:40.6682859Z"
+      }
+    ]
+  }
+}
