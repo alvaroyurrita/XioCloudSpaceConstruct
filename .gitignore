@@ -3,4 +3,6 @@ __TEMP/
 # construct compiled ch5z
 output/ 
 # construct project state
-.cse
+*.cse
+# Export Projects
+*.cca
