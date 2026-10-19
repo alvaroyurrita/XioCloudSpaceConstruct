@@ -4,5 +4,8 @@ __TEMP/
 output/ 
 # construct project state
 *.cse
-# Export Projects
+# construct export projects
 *.cca
+# Construct backups
+*.zip
+
